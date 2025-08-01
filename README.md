@@ -21,8 +21,8 @@ cd my-note
 
 my-note/
 ├── daily_notes/          # All journal entries
-│   ├── 2024-01-01.md    
-│   └── 2024-01-02.md     
+│   ├── 2025-01-01.md    
+│   └── 2025-01-02.md     
 ├── note.py         # Journal entry script
 ├── LICENSE
 └── README.md

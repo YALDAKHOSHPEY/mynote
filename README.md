@@ -1,4 +1,4 @@
-# 📔 My Note - Digital Journal & Thought Repository
+# 📔 My Note - Digital Journal & Thought Repositor
 
 A minimalist, Git-powered solution for tracking daily thoughts, ideas, and motivational quotes in Markdown format.
 ---
